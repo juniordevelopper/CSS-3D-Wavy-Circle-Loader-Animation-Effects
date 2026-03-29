@@ -9,7 +9,7 @@
 ### 🌟 Overview
 Welcome to the **CSS 3D Wavy Circle Loader**! This project showcases the power of **Modern CSS3** combined with minimal **JavaScript** to create a mesmerizing 3D depth effect. It features 15 concentric circles moving in a wave-like motion within a 3D perspective.
 
-[📺 Watch Live Demo](https://my_project.github.io](https://juniordevelopper.github.io/CSS-3D-Wavy-Circle-Loader-Animation-Effects/)
+[📺 Watch Live Demo](https://juniordevelopper.github.io/CSS-3D-Wavy-Circle-Loader-Animation-Effects/)
 
 ---
 
